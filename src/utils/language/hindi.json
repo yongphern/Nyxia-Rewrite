@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "name": "Hindi",
+    "translators": [
+      "1034480566340436083"
+    ]
+  },
+  "commands": {
+    "help": {
+      "title": "Help",
+      "description": "Display the list of commands"
+    }
+  },
+  "errors": {},
+  "utils": {
+    "bot": {
+      "name": "Nyxia",
+      "desc": "Nyxia is a versatile Discord bot that brings HD music, games, and powerful server management tools to your community. Whether you're looking to automate moderation, keep things fun with interactive activities, or streamline server organization, Nyxia has you covered. Plus, with a customizable economy and a dashboard on the way, there's plenty more to explore!"
+    }
+  }
+}
