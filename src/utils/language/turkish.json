@@ -1,24 +1,24 @@
 {
   "_meta": {
-    "_name": "Turkish",
-    "_translators": [
-      "751870300760571944"
+    "name": "English",
+    "translators": [
+      "981755777754755122"
     ]
   },
   "_1": "Edit from here down",
   "commands": {
     "help": {
-      "title": "Help",
-      "description": "Display the list of commands"
+      "title": "Yardım",
+      "description": "Komunt listesini görüntüle"
     }
   },
   "errors": {
-    "cmdNoExist": "This command doesn't exist!"
+    "cmdNoExist": "Bu komut mevcut değil!"
   },
   "utils": {
     "bot": {
       "name": "Nyxia",
-      "desc": "Nyxia is a versatile Discord bot that brings HD music, games, and powerful server management tools to your community. Whether you're looking to automate moderation, keep things fun with interactive activities, or streamline server organization, Nyxia has you covered. Plus, with a customizable economy and a dashboard on the way, there's plenty more to explore!"
+      "desc": "Nyxia, topluluğunuza HD müzik, oyunlar ve güçlü sunucu yönetimi araçları getiren çok yönlü bir Discord botudur. Denetimi otomatikleştirmek, etkileşimli etkinliklerle işleri eğlenceli kılmak veya sunucu organizasyonunu kolaylaştırmak istiyorsanız, Nyxia yanınızdadır. Ayrıca, özelleştirilebilir bir ekonomi ve yolda olan bir kontrol paneli ile keşfedilecek daha çok şey var!"
     }
   }
 }
